@@ -186,14 +186,6 @@ To replicate the analysis:
    git clone https://github.com/yourusername/tip-prediction-analysis.git
    ```
 
-2. **Install Dependencies**
-
-   Navigate to the project directory and install required packages:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Run the Notebook**
+2. **Run the Notebook**
 
    Open `Tip_Prediction_Analysis.ipynb` in Jupyter Notebook or JupyterLab.
